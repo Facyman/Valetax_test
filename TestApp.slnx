@@ -4,6 +4,6 @@
   </Folder>
   <Project Path="Core/Core.csproj" />
   <Project Path="Infrastructure/Infrastructure.csproj" />
-  <Project Path="TestApp/Web.csproj" />
+  <Project Path="Web/Web.csproj" />
   <Project Path="UseCases/UseCases.csproj" />
 </Solution>
