@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="UnitTests/UnitTests.csproj" Id="6e060fb6-208b-4b78-a9a8-325c4bfdaf50" />
+  </Folder>
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="TestApp/Web.csproj" />
+  <Project Path="UseCases/UseCases.csproj" />
+</Solution>
